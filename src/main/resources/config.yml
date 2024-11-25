@@ -1,0 +1,11 @@
+# Time in ticks (20 ticks = 1 second) before leaves decay
+# Set to 0 to use vanilla decay timing
+decay-delay-ticks: 200
+
+# Chance for an apple to drop from oak leaves (0.0 to 1.0)
+# Default: 0.5 (50% chance)
+apple-drop-chance: 0.5
+
+# Chance for a sapling to drop from any leaves (0.0 to 1.0)
+# Default: 0.05 (5% chance)
+sapling-drop-chance: 0.05

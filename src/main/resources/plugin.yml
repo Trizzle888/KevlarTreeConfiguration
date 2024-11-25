@@ -1,0 +1,9 @@
+name: KevlarTreeConfiguration
+version: 1.0
+main: kevlar.kevlarTreeConfiguration.KevlarTreeConfiguration
+api-version: 1.20
+
+commands:
+  kevlarleavesreload:
+    description: Reloads the plugin configuration
+    usage: /<command>
